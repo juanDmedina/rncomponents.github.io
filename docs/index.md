@@ -4,7 +4,7 @@ title: Index
 permalink: /
 ---
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/juanDmedina/rntemplate.github.io?color=%2361dbfb&style=for-the-badge&logo=github)](https://github.com/juanDmedina/rntemplate.github.io/stargazers/) [![GitHub Repo Forks](https://img.shields.io/github/forks/juanDmedina/rntemplate.github.io?color=%2361dbfb&style=for-the-badge&logo=github&label=Forks)](https://github.com/juanDmedina/rntemplate.github.io/network/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/juanDmedina/rncomponents.github.io?color=%2361dbfb&style=for-the-badge&logo=github)](https://github.com/juanDmedina/rncomponents.github.io/stargazers/) [![GitHub Repo Forks](https://img.shields.io/github/forks/juanDmedina/rncomponents.github.io?color=%2361dbfb&style=for-the-badge&logo=github&label=Forks)](https://github.com/juanDmedina/rncomponents.github.io/network/members)
 
 # A React Native Template
 
