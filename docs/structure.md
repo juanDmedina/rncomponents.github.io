@@ -9,7 +9,7 @@ permalink: /structure/
 - For this project we will use atomic design.
 
 
-![Example](/rncomponents.github.io/docs/assets/atom-design.png)
+![Example](/rncomponents.github.io/assets/atom-design.png)
 
 1. Atoms: These are the building blocks, which cannot be further broken down
 1. Molecules: Atoms grouped together form a single molecule
