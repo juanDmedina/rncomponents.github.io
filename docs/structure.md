@@ -8,6 +8,7 @@ permalink: /structure/
 
 - For this project we will use atomic design.
 
+
 ![Example](/rncomponents.github.io/docs/assets/atom-design.png)
 
 1. Atoms: These are the building blocks, which cannot be further broken down
