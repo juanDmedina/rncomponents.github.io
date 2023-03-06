@@ -8,7 +8,7 @@ permalink: /structure/
 
 - For this project we will use atomic design.
 
-![Example](/rncomponets.github.io/docs/assets/atom-design.png)
+![Example](/rncomponents.github.io/docs/assets/atom-design.png)
 
 1. Atoms: These are the building blocks, which cannot be further broken down
 1. Molecules: Atoms grouped together form a single molecule
@@ -26,4 +26,4 @@ permalink: /structure/
 [NextShield]: /about.markdown
 
 [Previous]: https://img.shields.io/badge/-Previous-blue
-[PreviousShield]: https://juandmedina.github.io/rncomponents.github.io/
+[PreviousShield]: https://juandmedina.github.io/rncomponents.github.io
