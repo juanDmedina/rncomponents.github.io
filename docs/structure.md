@@ -26,4 +26,4 @@ permalink: /structure/
 [NextShield]: /about.markdown
 
 [Previous]: https://img.shields.io/badge/-Previous-blue
-[PreviousShield]: https://juandmedina.github.io/rncomponets.github.io/
+[PreviousShield]: https://juandmedina.github.io/rncomponents.github.io/
