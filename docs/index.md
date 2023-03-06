@@ -42,7 +42,7 @@ In general:
      npx react-native init <projectName> --template react-native-template-typescript
      ```
 
-![Example](/rncomponets.github.io/assets/inital-projectpng.png)
+![Example](/rncomponents.github.io/docs/assets/inital-projectpng.png)
 
 
 ## Getting Started
